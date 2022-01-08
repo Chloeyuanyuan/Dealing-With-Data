@@ -1,0 +1,2 @@
+# Dealing-With-Data
+This project aim to build an analyst pattern that can provide stock transaction suggestions to analysts through analyzing related information from some major social media platforms. In this project, we will choose several stocks in different industries to analyze. We plan to import the historical stock prices data and catch significant meaningful words from major social media platforms to build a model which can see how those words influence the short term trend of stock price.
